@@ -1,3 +1,4 @@
+import React from 'react';
 const Projects = () => {
   return (
     <div className="container mt-4">
