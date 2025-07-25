@@ -21,5 +21,7 @@ cd Portfolio/my-app
 Install dependencies:
 npm install
 npm install react-router-dom
+npm install bootstrap
+
 Start the development server:
 npm run dev
