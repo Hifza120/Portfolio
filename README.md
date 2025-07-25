@@ -20,5 +20,6 @@ Navigate to the project folder:
 cd Portfolio/my-app
 Install dependencies:
 npm install
+npm install react-router-dom
 Start the development server:
 npm run dev
